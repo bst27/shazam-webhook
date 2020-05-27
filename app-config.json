@@ -1,0 +1,6 @@
+{
+    "SendInitialHooks": false,
+    "PollingInterval": 10800,
+    "MonitoredShazamCharts": [],
+    "Tracklists": []
+}

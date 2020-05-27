@@ -1,0 +1,4 @@
+github.com/bst27/shazam v0.0.0-20200527124551-c6a8e6610dc1 h1:ADQUghZuX25dxGWPUSyMy+oZlt58ppB2ucyt19aEggU=
+github.com/bst27/shazam v0.0.0-20200527124551-c6a8e6610dc1/go.mod h1:jX8tCNJj9UyQvgM+EJLlH49hpRKIPlp3uvopkKnzzE4=
+github.com/google/uuid v1.1.1 h1:Gkbcsh/GbpXz7lPftLA3P6TYMwjCLYm83jiFQZF/3gY=
+github.com/google/uuid v1.1.1/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
