@@ -1,3 +1,5 @@
+![shazam-webhook](https://raw.githubusercontent.com/bst27/shazam-webhook/master/website/banner.png)
+
 shazam-webhook
 ======
 This application allows to monitor Shazam charts available at shazam.com and
